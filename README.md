@@ -12,4 +12,4 @@ bash run.sh
 ```
 
 ### Apendix
-Appendix for the paper is in fold 'Appendix/'
+Appendix for the paper is in fold `Appendix/`
