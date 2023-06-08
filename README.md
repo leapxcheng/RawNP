@@ -10,3 +10,6 @@ Official Code Repository for the paper "Towards Few-shot Inductive Link Predicti
 ```
 bash run.sh
 ```
+
+### Apendix
+Appendix for the paper is in fold 'Appendix/'
